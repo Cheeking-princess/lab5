@@ -31,7 +31,7 @@ namespace lab5.Tests
             steps.CloseBrowser();
         }
 
-        [Test]
+       /* [Test]
         public void TestCaseOne()
         {
             FROM = "NYC";
@@ -132,6 +132,95 @@ namespace lab5.Tests
             AIRCLASS = "Business";
             COUNTROOM = "3";
             steps.SearchCaseNine(FROM, TO, NUMBEROFPASSANGERS, DATE, TIMEOFDAY, TYPEPASSANGERS, AIRCLASS, COUNTROOM);
+        }*/
+
+        
+         [Test]
+        public void TestCase1()
+        {
+            FROM = "BLI";
+            TO = "JAN";
+            NUMBEROFPASSANGERS = "1";
+            DATE = new List<string>() { "01/20/2019", "" };
+            TIMEOFDAY = new List<string>() { "3:00 pm", "5:00 pm" };
+            steps.SearchCaseTen( FROM, TO, NUMBEROFPASSANGERS, DATE, TIMEOFDAY, TYPEPASSANGERS);
+        }
+        
+         [Test]
+        public void TestCase2()
+        {
+            FROM = "BLI";
+            TO = "JAN";
+            NUMBEROFPASSANGERS = "1";
+            DATE = new List<string>() { "01/20/2019", "" };
+            TIMEOFDAY = new List<string>() { "3:00 pm", "5:00 pm" };
+            steps.SearchCaseTen( FROM, TO, NUMBEROFPASSANGERS, DATE, TIMEOFDAY, TYPEPASSANGERS);
+        }
+        
+         [Test]
+        public void TestCase3()
+        {
+            FROM = "BLI";
+            TO = "JAN";
+            NUMBEROFPASSANGERS = "1";
+            DATE = new List<string>() { "01/20/2019", "" };
+            TIMEOFDAY = new List<string>() { "3:00 pm", "5:00 pm" };
+            steps.SearchCaseTen( FROM, TO, NUMBEROFPASSANGERS, DATE, TIMEOFDAY, TYPEPASSANGERS);
+        }
+        
+         [Test]
+        public void TestCase4()
+        {
+            FROM = "BLI";
+            TO = "JAN";
+            NUMBEROFPASSANGERS = "1";
+            DATE = new List<string>() { "01/20/2019", "" };
+            TIMEOFDAY = new List<string>() { "3:00 pm", "5:00 pm" };
+            steps.SearchCaseTen( FROM, TO, NUMBEROFPASSANGERS, DATE, TIMEOFDAY, TYPEPASSANGERS);
+        }
+        
+         [Test]
+        public void TestCase5()
+        {
+            FROM = "BLI";
+            TO = "JAN";
+            NUMBEROFPASSANGERS = "1";
+            DATE = new List<string>() { "01/20/2019", "" };
+            TIMEOFDAY = new List<string>() { "3:00 pm", "5:00 pm" };
+            steps.SearchCaseTen( FROM, TO, NUMBEROFPASSANGERS, DATE, TIMEOFDAY, TYPEPASSANGERS);
+        }
+        
+         [Test]
+        public void TestCase6()
+        {
+            FROM = "BLI";
+            TO = "JAN";
+            NUMBEROFPASSANGERS = "1";
+            DATE = new List<string>() { "01/20/2019", "" };
+            TIMEOFDAY = new List<string>() { "3:00 pm", "5:00 pm" };
+            steps.SearchCaseTen( FROM, TO, NUMBEROFPASSANGERS, DATE, TIMEOFDAY, TYPEPASSANGERS);
+        }
+        
+         [Test]
+        public void TestCase7()
+        {
+            FROM = "BLI";
+            TO = "JAN";
+            NUMBEROFPASSANGERS = "1";
+            DATE = new List<string>() { "01/20/2019", "" };
+            TIMEOFDAY = new List<string>() { "3:00 pm", "5:00 pm" };
+            steps.SearchCaseTen( FROM, TO, NUMBEROFPASSANGERS, DATE, TIMEOFDAY, TYPEPASSANGERS);
+        }
+        
+         [Test]
+        public void TestCase8()
+        {
+            FROM = "BLI";
+            TO = "JAN";
+            NUMBEROFPASSANGERS = "1";
+            DATE = new List<string>() { "01/20/2019", "" };
+            TIMEOFDAY = new List<string>() { "3:00 pm", "5:00 pm" };
+            steps.SearchCaseTen( FROM, TO, NUMBEROFPASSANGERS, DATE, TIMEOFDAY, TYPEPASSANGERS);
         }
 
         [Test]
