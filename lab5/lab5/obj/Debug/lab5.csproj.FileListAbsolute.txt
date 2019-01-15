@@ -1,0 +1,13 @@
+D:\!Study\Path7\Tests\Epam-master\lab5\lab5\lab5\bin\Debug\lab5.dll
+D:\!Study\Path7\Tests\Epam-master\lab5\lab5\lab5\bin\Debug\lab5.pdb
+D:\!Study\Path7\Tests\Epam-master\lab5\lab5\lab5\bin\Debug\nunit.framework.dll
+D:\!Study\Path7\Tests\Epam-master\lab5\lab5\lab5\bin\Debug\WebDriver.dll
+D:\!Study\Path7\Tests\Epam-master\lab5\lab5\lab5\bin\Debug\WebDriver.Support.dll
+D:\!Study\Path7\Tests\Epam-master\lab5\lab5\lab5\bin\Debug\nunit.framework.xml
+D:\!Study\Path7\Tests\Epam-master\lab5\lab5\lab5\bin\Debug\WebDriver.xml
+D:\!Study\Path7\Tests\Epam-master\lab5\lab5\lab5\bin\Debug\WebDriver.Support.xml
+D:\!Study\Path7\Tests\Epam-master\lab5\lab5\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+D:\!Study\Path7\Tests\Epam-master\lab5\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+D:\!Study\Path7\Tests\Epam-master\lab5\lab5\lab5\obj\Debug\lab5.csproj.CopyComplete
+D:\!Study\Path7\Tests\Epam-master\lab5\lab5\lab5\obj\Debug\lab5.dll
+D:\!Study\Path7\Tests\Epam-master\lab5\lab5\lab5\obj\Debug\lab5.pdb
